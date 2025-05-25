@@ -26,16 +26,14 @@ I'm a dedicated **MERN (MongoDB, Express.js, React.js, Node.js)** full-stack dev
 ### Languages
 - Java
 - JavaScript (ES6+)
-- TypeScript
 - SQL
 
 ### Frontend
 - HTML, CSS, Bootstrap, Tailwind CSS
-- JavaScript, TypeScript, React.js
+- JavaScript,React.js
 
 ### Backend
 - Node.js, Express.js
-- RESTful APIs, WebSockets
 
 ### Database
 - MongoDB, Firebase
@@ -58,9 +56,9 @@ I'm a dedicated **MERN (MongoDB, Express.js, React.js, Node.js)** full-stack dev
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](#)
-- 📧 [Email](#)
-- 🌐 [Portfolio](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aashu12/)
+- 📧 [Email](ashiyagupta4321@gmail.com)
+- 🌐 [Portfolio](https://personal-portfolio-virid-iota.vercel.app/)
 
 ---
 
